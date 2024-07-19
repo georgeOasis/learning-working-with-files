@@ -29,3 +29,19 @@
 "If there are many changes in a short time, the buffer can overflow. This causes the component to lose track of changes in the directory, and it will only provide blanket notification." [Microsoft documantation](https://learn.microsoft.com/en-us/dotnet/api/system.io.filesystemwatcher.error?view=net-8.0) 
 
 
+## Module 4 : Reading and Writing Entire Files Into Memory
+
+- `File.ReadAllText()`
+- `File.WriteAllText()`
+- `File.ReadAllLines()`
+- `File.WriteAllLines()`
+- `File.AppendAllText() `
+- `File.ReadAllBytes()`
+- `File.WriteAllBytes()`
+
+<br>
+
+
+
+
+
