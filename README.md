@@ -41,7 +41,21 @@
 
 <br>
 
+## Module 5: Reading and Writing Data Incrementally Using Streams
+Streams benefits
 
+1. **Efficient Memory Usage**
+2. **Asynchronous Processing**
+3. **Abstraction from backing store**
+4. **Seekability**
+5. **Performance**: By using streams, you can perform read and write operations in a buffered manner, which can significantly improve the performance of your application. This is because buffered operations reduce the number of I/O operations, which are typically slow.
+
+   
+Notes:
+- you can specify `Encoding` in `StreamReader` and `StreamWriter`.
+- you can append data to `StreamWriter` using a constructor parameter.
+- you can randomly access bytes of the Streams.
+- you can use memory as a backing store using `MemoryStream`.
 
 
 
