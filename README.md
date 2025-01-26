@@ -1,6 +1,6 @@
 ### Resources that I studied:<br>
 - [Working with Files in C# 10 - Pluralsight](https://www.pluralsight.com/courses/c-sharp-10-working-files)
-- 
+- [Getting Started with JSON in C# Using Json.NET 12 - Pluralsight](https://www.pluralsight.com/courses/getting-started-json-csharp-jsondotnet)
 
 # Working with Files in C# 10 - Pluralsight
 ## Module 2 : Managing Files and Directories
@@ -58,4 +58,8 @@ Notes:
 - you can use memory as a backing store using `MemoryStream`.
 
 
-
+# Getting Started with JSON in C# Using Json.NET 12 - Pluralsight
+## Module 2 : The case for Json and Json.NET
+![Screenshot 2025-01-26 205049](https://github.com/user-attachments/assets/7ea305ff-a553-47e5-b0d1-714bcad8a216)
+![image](https://github.com/user-attachments/assets/10001703-12be-45d3-a6be-1200e63d6a90)
+## Module 3 : Serialization fundamentals
